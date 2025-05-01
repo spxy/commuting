@@ -1,0 +1,12 @@
+{
+  "name": "commuting",
+  "version": "0.1.0",
+  "description": "Commuting: Compute the time spent in commuting",
+  "devDependencies": {
+    "standard": "latest",
+    "eslint-plugin-html": "latest"
+  },
+  "scripts": {
+    "lint": "standard --plugin html *.html"
+  }
+}
